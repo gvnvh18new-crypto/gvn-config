@@ -1,0 +1,2 @@
+# gvn-config
+tên miền
