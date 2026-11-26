@@ -1,6 +1,6 @@
 {
   "home_url": "https://www.gvnvh18z.com/",
-  "notice": { "id": "tb1", "title": "Thông báo", "text": "Chào mừng", "link": "" },
+  "notice": { "id": "tb1", "title": "Thông báo", "text": "test 1", "link": "" },
   "update": { "version_code": 2, "version_name": "0.1.1", "url": "", "note": "" }
   "unity_runtime_url": "https://github.com/gvnvh18new-crypto/gvn-config/releases/download/unity-1.0/GVNUnityRuntime-1.0.apk"
 }
