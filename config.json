@@ -2,5 +2,17 @@
   "home_url": "https://www.gvnvh18z.com/",
   "notice": { "id": "tb1", "title": "Thông báo", "text": "test", "link": "" },
   "update": { "version_code": 2, "version_name": "0.1.1", "url": "", "note": "" },
-  "unity_runtime_url": "https://github.com/gvnvh18new-crypto/gvn-config/releases/download/unity-1.0/GVNUnityRuntime-1.0.apk"
+  "unity_runtime_url": "https://github.com/gvnvh18new-crypto/gvn-config/releases/download/unity-1.0/GVNUnityRuntime-1.0.apk",
+  "renpy_cores": {
+    "8.3": {
+      "url": "https://github.com/gvnvh18new-crypto/gvn-config/releases/download/renpy-cores/renpy-core-8.3.7.zip",
+      "size": 20042983,
+      "sha256": "26aba8276f5cadd1e894b9aad75ae38ef4c081a64810c82055286059490fbb6f"
+    },
+    "7.4": {
+      "url": "https://github.com/gvnvh18new-crypto/gvn-config/releases/download/renpy-cores/renpy-core-7.4.11.zip",
+      "size": 12647703,
+      "sha256": "0c2a9d6410d27aa38d461788b33ed4ecc3e1bae1463f6351c41282fac292f02b"
+    }
+  }
 }
